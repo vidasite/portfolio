@@ -1331,8 +1331,25 @@ width: 90%
 	
 	}
 	
+	.Line {
+		
+		display: none;
+		
+		
+	}
+	
+	#cvLine {
+		
+	display: none;	
+		
+	}
 	
 	
+	#blogLine {
+		
+		display: none;
+		
+	}
 	
 	
 }
