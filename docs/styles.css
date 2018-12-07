@@ -1268,7 +1268,7 @@ body {
   margin: 5px;
   margin-left: 20px;
   margin-top: 2px;
-  font-size: 500px;
+  font-size: 150px;
   text-align: center;
 
 
@@ -1298,7 +1298,7 @@ body {
  
 background-repeat: repeat-y;
 width: 300%;
-height: 2000px;
+height: 8000px;
 	
 }
 
@@ -1309,8 +1309,17 @@ height: 2000px;
 
 #para1 {
 	
-width: 70%
+width: 90%
 
+	}
+	
+.sub-titles {
+	
+	font-size: 250px;
+	margin-left: 900px;
+	
+	
+	
 	}
 
 }
