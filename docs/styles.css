@@ -344,7 +344,7 @@ li {
 
 /* this style applies to the various lines on the site */
 
-/* .Line {
+.Line {
 
   float: right;
   background-color: grey;
@@ -356,7 +356,7 @@ li {
 
 
 
-} */
+}
 
 /*this applies to the page sub-titles on the site eg. "some examples of previous work" */
 
@@ -440,7 +440,7 @@ li {
   margin-left: 890px;
   margin-top: 200px;
 }
-/* 
+
 #cvLine {
 
   float: right;
@@ -452,7 +452,7 @@ li {
   display: block;
 
 }
- */
+
 #cvSubtitle {
    
   margin-top: 380px;
@@ -538,11 +538,11 @@ section {
 }
 
 
-/* #blogLine {
+#blogLine {
 
   width: 328px;
   margin-top: 168px;
-} */
+}
 
 
 /*the following css are the stylings for page 5 of the site */
