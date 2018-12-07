@@ -447,7 +447,7 @@ li {
   background-color: grey;
   margin-right: 15%;
   margin-top: 26%;
-  width: 550px;
+  width: 500px;
   height: 2px;
   display: block;
 
@@ -477,7 +477,7 @@ li {
    text-align: center;
    margin-left: 5%;
    margin-right: 10%;
-   margin-top: 100px;
+   margin-top: -150px;
    background-color: lightgrey;
    font-size: 12px;
    display: inline-block;
