@@ -437,7 +437,7 @@ li {
 
 #cvtitle {
 
-  margin-left: 800px;
+  margin-left: 890px;
   margin-top: 200px;
 }
 
@@ -446,7 +446,7 @@ li {
   float: right;
   background-color: grey;
   margin-right: 4%;
-  margin-top: 30%;
+  margin-top: 25%;
   width: 550px;
   height: 2px;
   display: block;
@@ -498,7 +498,7 @@ li {
 section {
 
   background-color: #002aa7;
-  width: 550px;
+  width: 35%;
   height: 1px;
   position: relative;
   left: 50px;
@@ -520,7 +520,7 @@ section {
   height: 700px;  
   margin-left: 2%; 
   box-shadow: 5px 5px 10px black;
-  margin-top: -200px;
+  margin-top: 100px;
 }
 
 #blogtitle {
@@ -607,6 +607,7 @@ footer {
   width: 100%;
   background-color: #002aa7;
   text-align: right;
+  margin-bottom: 0;
   color: white;
   height: 90px;
 
