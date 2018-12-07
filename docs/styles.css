@@ -1233,6 +1233,7 @@ body {
 
   background-image: url(seaside.png);
   background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 
@@ -1240,14 +1241,14 @@ body {
 #side-nav {
 
    background-color: #002aa7;
-   width: 100%;
+   width: 600px;
    height: 10%;
    position: absolute;
    top: 0px;
    left: 0px;
    border-radius: 2px;
    box-shadow: 2px 2px 10px black;
-   font-size: 20px;
+   font-size: 50px;
    overflow-y: hidden;
   
  
