@@ -1345,10 +1345,26 @@ width: 90%
 		
 	}
 	
+	#CVmain {
+		
+		margin-top: -200px;
+		width: 35%;
+		
+		
+	}
+	
 	
 	#blogLine {
 		
 		display: none;
+		
+	}
+	
+	footer {
+		
+		dispay: none;
+		
+		
 		
 	}
 	
