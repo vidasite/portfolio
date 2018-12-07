@@ -1249,7 +1249,7 @@ body {
 #side-nav {
 
    background-color: #002aa7;
-   width: 100%;
+   width: 195%;
    height: 20%;
    position: absolute;
    top: 0px;
@@ -1291,9 +1291,11 @@ body {
 
 #side-nav:hover {
 
-  width: 100%;
+  width: 195%;
 
 }
+	
+
 
 #logo {
 
