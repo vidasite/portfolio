@@ -1052,7 +1052,7 @@ li {
 
   float: right;
   background-color: grey;
-  margin-right: 4%;
+  margin-right: -10%;
   margin-top: 30%;
   width: 550px;
   height: 2px;
@@ -1231,9 +1231,7 @@ footer {
    
 body {
 
-  background-image: url(seaside.png);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  
 }
 
 
@@ -1241,7 +1239,7 @@ body {
 #side-nav {
 
    background-color: #002aa7;
-   width: 600px;
+   width: 300%;
    height: 10%;
    position: absolute;
    top: 0px;
@@ -1286,8 +1284,9 @@ body {
 
 #background-image {
  
-
- display: none;
+background-repeat: repeat-y;
+width: 300%;
+	
 }
 
 #page1 {
