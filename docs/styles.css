@@ -30,7 +30,7 @@ body {
    background-repeat: no-repeat;
    opacity: 0.5;
    width: 100%;
-   height: 6550px;
+   height: 6570px;
    position: absolute;
    top: -10px;
    left: 0px;
@@ -445,7 +445,7 @@ li {
 
   float: right;
   background-color: grey;
-  margin-right: 15%;
+  margin-right: 8%;
   margin-top: 26%;
   width: 500px;
   height: 2px;
@@ -1052,7 +1052,7 @@ li {
 
   float: right;
   background-color: grey;
-  margin-right: 0%;
+  margin-right: -10%;
   margin-top: 30%;
   width: 550px;
   height: 2px;
